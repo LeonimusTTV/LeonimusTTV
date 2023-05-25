@@ -16,4 +16,3 @@ Je dev pendant mon temps libre, tu peux aller voire mes projets sur mon profile 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeonimusTTV&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LeonimusTTV&layout=compact&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
