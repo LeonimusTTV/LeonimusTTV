@@ -1,11 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCkp8pd-SJivfL9KDu57LPlQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
----
-
 ### Salut 👋
 
 Je dev pendant mon temps libre, tu peux aller voire mes projets sur mon profile 😉
